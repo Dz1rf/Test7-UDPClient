@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="But1">1</string>
+    <string name="But2">2</string>
+    <string name="But3">3</string>
+    <string name="But4">4</string>
+    <string name="But5">5</string>
+    <string name="Add">Add</string>
+    <string name="no">No click</string>
+
+    <string name="text2">Кнопка 1 нажата</string>
+    <string name="text3">Кнопка 2 нажата</string>
+    <string name="text4">Кнопка 3 нажата</string>
+    <string name="text5">Кнопка 4 нажата</string>
+    <string name="text6">Кнопка 5 нажата</string>
+</resources>
